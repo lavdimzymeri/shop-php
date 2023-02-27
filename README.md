@@ -73,11 +73,7 @@ Installation:
 To install the system, follow these steps:
 
     Download and install a web server software such as XAMPP, WAMP, or MAMP.
-
     Download the project files and extract them to the web server's root directory.
-
     Import the database schema file into your database server.
-
     Modify the database connection settings in the config.php file.
-
     Access the system by navigating to the web server's URL.
