@@ -58,16 +58,15 @@ Show all products:
 
 <img width="947" alt="Screenshot_1" src="https://user-images.githubusercontent.com/115353029/221545144-a85b704e-6d35-4700-8297-eb3c22ef7299.png">
 
-Add/remove services to product: 
-<img width="935" alt="Screenshot_2" src="https://user-images.githubusercontent.com/115353029/221545325-056e6c6f-5e31-45c0-832c-25d6d2982efe.png">
-
-
 Add the customer: 
 <img width="950" alt="Screenshot_3" src="https://user-images.githubusercontent.com/115353029/221545461-98caaf4a-421d-4760-afa2-787e5aed7568.png">
 
-
 Add a sale to the customer: 
 <img width="956" alt="Screenshot_4" src="https://user-images.githubusercontent.com/115353029/221545589-460dff5c-613b-40ce-87ff-7adb534d8f16.png">
+
+Table of sales:
+<img width="923" alt="Screenshot_12" src="https://user-images.githubusercontent.com/115353029/221546984-2a37de0b-09d7-42ae-a0e3-dce9881c0f4c.png">
+
 
 
 Installation:
