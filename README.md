@@ -32,30 +32,42 @@ The system includes several stored procedures to make the database more efficien
 The stored procedures include:
 
 Create a shop: 
+<img width="953" alt="Screenshot_5" src="https://user-images.githubusercontent.com/115353029/221545701-395cb951-6772-4cad-9f6a-d3e49e166a55.png">
 
-
+List of all shops:
+<img width="936" alt="Screenshot_6" src="https://user-images.githubusercontent.com/115353029/221545829-44adaf5e-6b85-41d8-969a-5cfe5596e8aa.png">
 
 Add new shop assistant: 
+<img width="946" alt="Screenshot_7" src="https://user-images.githubusercontent.com/115353029/221545932-2a24bc97-b008-4658-9ab7-bdcbd678d39b.png">
 
+List of the assistant:
+<img width="948" alt="Screenshot_9" src="https://user-images.githubusercontent.com/115353029/221546312-a9533f1f-bea7-4076-84b1-e50abae1edea.png">
 
 Add the service: 
+<img width="951" alt="Screenshot_10" src="https://user-images.githubusercontent.com/115353029/221546427-dc2b47f3-8bfe-444b-84d7-265ae901efc3.png">
 
+List of product services:
 
+<img width="949" alt="Screenshot_11" src="https://user-images.githubusercontent.com/115353029/221546573-3629d3a0-41a0-4a43-b03e-1e2beb292286.png">
 
 Add product: 
 
 <img width="947" alt="Screenshot_8" src="https://user-images.githubusercontent.com/115353029/221544815-31f0b132-a801-4d53-bf67-8c9829fc4447.png">
 
+Show all products:
 
+<img width="947" alt="Screenshot_1" src="https://user-images.githubusercontent.com/115353029/221545144-a85b704e-6d35-4700-8297-eb3c22ef7299.png">
 
 Add/remove services to product: 
+<img width="935" alt="Screenshot_2" src="https://user-images.githubusercontent.com/115353029/221545325-056e6c6f-5e31-45c0-832c-25d6d2982efe.png">
 
 
 Add the customer: 
+<img width="950" alt="Screenshot_3" src="https://user-images.githubusercontent.com/115353029/221545461-98caaf4a-421d-4760-afa2-787e5aed7568.png">
 
 
 Add a sale to the customer: 
-
+<img width="956" alt="Screenshot_4" src="https://user-images.githubusercontent.com/115353029/221545589-460dff5c-613b-40ce-87ff-7adb534d8f16.png">
 
 
 Installation:
