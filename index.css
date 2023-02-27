@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("https://media.istockphoto.com/id/1141340859/photo/shopping-cart-on-laptop-keyboard.jpg?s=612x612&w=0&k=20&c=CrI94P5xM3NutZjf4O2jyTNkjpc1kNA8YgX-GbU6OZM=");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+nav {
+  background-color: #001f3f;
+  overflow: hidden;
+  font-size: 25px;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  flex: 1;
+  text-align: center;
+}
+
+nav a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+nav li:hover {
+  background-color: #111;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  z-index: 1;
+  width: 17%;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  text-align: left;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.5rem;
+}
+
+.dropdown-menu li:hover {
+  background-color: #111;
+}
+
+/*Footer*/
+
+footer {
+  /* background-color: #333;
+  color: #fff;
+  padding: 3rem 0; */
+  background-color: #001f3f;
+  color: #fff;
+  padding: 3rem 0;
+  position: absolute;
+  bottom: -20rem;
+  width: 100%;
+}
+
+footer h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+footer p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer li {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+footer i {
+  margin-right: 0.5rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-md-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}

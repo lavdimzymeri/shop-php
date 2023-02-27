@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  margin-top: 1rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: #00008b;
+}
+
+table,
+th,
+td {
+  /* border: 1px solid black; */
+  /* width: 50%; */
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+th,
+td {
+  padding: 5px;
+  text-align: left;
+}
+th {
+  height: 50px;
+  background-color: #00008b;
+  color: white;
+}
+
+td {
+  height: 40px;
+  vertical-align: bottom;
+  /* text-align: center; */
+}
