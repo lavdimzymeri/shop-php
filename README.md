@@ -61,12 +61,14 @@ Show all products:
 Add the customer: 
 <img width="950" alt="Screenshot_3" src="https://user-images.githubusercontent.com/115353029/221545461-98caaf4a-421d-4760-afa2-787e5aed7568.png">
 
+Table of customers:
+<img width="936" alt="Screenshot_13" src="https://user-images.githubusercontent.com/115353029/221547883-e7a658d9-b7e8-4f79-8631-3d9224fcc47d.png">
+
 Add a sale to the customer: 
 <img width="956" alt="Screenshot_4" src="https://user-images.githubusercontent.com/115353029/221545589-460dff5c-613b-40ce-87ff-7adb534d8f16.png">
 
 Table of sales:
 <img width="923" alt="Screenshot_12" src="https://user-images.githubusercontent.com/115353029/221546984-2a37de0b-09d7-42ae-a0e3-dce9881c0f4c.png">
-
 
 
 Installation:
